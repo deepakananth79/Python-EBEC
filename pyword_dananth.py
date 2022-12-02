@@ -1,7 +1,7 @@
 """
 Author: Deepak Ananthakrishnan, dananth@purdue.edu
 Assignment: 12.1 - pyword
-Date: 
+Date: 12/12/2022
 
 Description:
     Program that runs a game similar to wordle in the terminal. Also has a "hall of fame" txt file that 
@@ -29,7 +29,7 @@ Academic Integrity Statement:
 """
 
 """Import additional modules below this line (starting with unit 6)."""
-
+import random as r
 
 """Write new functions below this line (starting with unit 4)."""
 
@@ -38,7 +38,7 @@ the words.txt file as its only argument and should return a list of three of tho
 at random. The returned words must all be lowercase and must be used in the same order
 as they appear in the returned list """
 def pick_game_words():
-
+    
 
 def main():
     
